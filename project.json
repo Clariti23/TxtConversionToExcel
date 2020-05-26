@@ -3,8 +3,11 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "BalaReva.CSV.Activities": "[2019.1.0]",
+    "BitMiracle.Docotic.Pdf": "[7.0.10684-dev]",
     "UiPath.Excel.Activities": "[2.8.5]",
     "UiPath.Mail.Activities": "[1.8.5]",
+    "UiPath.PDF.Activities": "[3.2.2]",
     "UiPath.System.Activities": "[20.4.0]",
     "UiPath.UIAutomation.Activities": "[20.4.1]"
   },

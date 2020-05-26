@@ -1,0 +1,62 @@
+﻿Column1
+06-MAY-2020 04:01:34 PM                           University of Notre Dame                                   PAGE 1
+FISCAL YEAR 2020                               General Ledger Detail Transact                                FGRGLTA
+"                                              From 01-NOV-2019 To 30-NOV-2019"
+COAS: 1              Notre Dame
+FUND: 100000         Educational and General
+TRANS      TRAN  DOCUMENT DOCUMENT
+DATE       TYPE   NUMBER    REF        DESCRIPTION                      ACCOUNT           DEBITS         CREDITS          BALANCE
+"BEGINNING BALANCE:   Follett-Miscellaneous-Bkstore                      12505                                           39,451.08"
+11/01/2019 FJ1   JV059788          IDEACTR - RENTAL 20190610            12505             450.00
+11/01/2019 FJ1   JV059790          IDEACTR - RENTAL 20190611            12505             450.00
+"11/01/2019 FJ1   CD022401          Follett Unallocated store expe       12505                          16,032.29"
+11/04/2019 FJ1   JV059972          20-HAMM-1138Video Preproductio       12505             276.25
+"11/04/2019 FJ1   JV059972          20-HAMM-1138Photo Services Fre       12505           1,618.20"
+11/18/2019 FJ1   JV060763          Telecomm Toll                        12505               0.23
+11/18/2019 FJ1   JV060763          Telecomm Toll                        12505              59.75
+11/18/2019 FJ1   JV060763          Telecomm Line                        12505              78.00
+"11/18/2019 FJ1   JV060763          Telecomm Line                        12505           2,394.00"
+11/20/2019 FJ1   JV061017          Hammes Bookstore                     12505             939.89
+11/20/2019 PA1   F0066722 636292   TouchNet Dept Charge                 12505              64.75
+11/20/2019 PA1   F0066722 636301   TouchNet Dept Charge                 12505             114.95
+11/28/2019 FJ1   FC001805 A2593501 WE HAVE TWO POLYCOM/SPECTRALIN       12505             100.00
+"11/28/2019 FJ1   FC001805 Z9279505 NOVEMBER CUSTODIAL SUPPLIES 20       12505           1,107.39"
+11/29/2019 FJ1   TV000735          Upshaw/Timothy Ivan 11/26/2019       12505             416.02
+11/29/2019 FJ1   TV000735          Ciupinski/Courtney M 11/26/201       12505             416.02
+11/29/2019 FJ1   TV000735          Hanawalt/Jed Garrett 11/26/201       12505             416.02
+"11/30/2019 FJ1   GR000661 CartRent Bookstore                            12505           7,595.00"
+11/30/2019 FJ1   JV061847 OBOJV001 9.28.19BookstorePoliceSvcsFoot       12505             257.25
+11/30/2019 FJ1   JV061847 OBOJV001 9.14.19BookstorePoliceSvcsFoot       12505             257.25
+11/30/2019 FJ1   JV061847 OBOJV001 11.23.19BookstorePoliceSvcsFoo       12505             245.55
+11/30/2019 FJ1   JV061847 OBOJV001 11.16.19BookstorePoliceSvcsFoo       12505             245.55
+11/30/2019 FJ1   JV061847 OBOJV001 10.05.19BookstorePoliceSvcsFoo       12505             210.47
+11/30/2019 FJ1   JV061847 OBOJV001 10.12.19BookstorePoliceSvcsFoo       12505             233.86
+11/30/2019 FJ1   JV061847 OBOJV001 11.02.19BookstorePoliceSvcsFoo       12505             257.25
+11/30/2019 FT01  FS005439 I668473  Follett Domer$ CC Fee                12505             207.99
+11/30/2019 FT01  FS005441 I668033  Cater Ev#00123769 11/07/19           12505             100.20
+11/30/2019 FT01  FS005441 I668038  Cater Ev#00123879 11/12/19           12505              40.00
+11/30/2019 FT01  FS005441 I668065  Cater Ev#00123798 11/23/19           12505             863.15
+11/30/2019 FT01  LD001492 00011423 Laundry - Follett Bookstore          12505              46.98
+11/30/2019 PJ1   PS000701          Canon Oct 2019                       12505              60.44
+"ENDING BALANCE:      Follett-Miscellaneous-Bkstore                      12505          19,522.41       16,032.29        42,941.20"
+"                                                                                     TOTAL           TOTAL               ENDING"
+"                                                                                     DEBITS          CREDITS             BALANCE"
+TOTAL FUND: 100000 Educational and General
+"                                   Assets                               10             19,522.41       16,032.29        42,941.20"
+06-MAY-2020 04:01:34 PM                           University of Notre Dame                                   PAGE 2
+FISCAL YEAR 2020                               General Ledger Detail Transact                                FGRGLTA
+"                                              From 01-NOV-2019 To 30-NOV-2019"
+"                                               * * * REPORT CONTROL INFORMATION * * *"
+PARAMETER SEQUENCE NUMBER: 6613587
+FISCAL YEAR: 2020
+CHART OF ACCOUNTS: 1
+FROM FUND: 100000
+TO FUND: 100000
+FROM ACCOUNT: 12505
+TO ACCOUNT: 12505
+FROM: 01-NOV-2019
+TO: 30-NOV-2019
+INCLUDE ACCRUAL: Y
+PRINT FUND TOTALS: Y
+NUMBER OF PRINTED LINES PER PAGE: 55
+RECORD COUNT: 1
